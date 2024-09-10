@@ -66,18 +66,11 @@ eas build -p android --profile production
 * **Expo Router:** Ferramenta de navegação simples e eficiente.
 * **Expo:** Plataforma para desenvolvimento rápido e eficiente de aplicativos React Native.
 
-  ## Imagens
-**TELA INICIAL**
+  ## Screen
 
-<img src="/screen/tela-inicial.jpg" width="300" height="600">
+<img src="/screen/tela-inicial.jpg" width="300" height="600">  <img src="/screen/tela-secundaria.jpg" width="300" height="600">   <img src="/screen/tela-teste-login.jpg" width="300" height="600">
 
-**TELA SECUNDARIA**
 
-<img src="/screen/tela-secundaria.jpg" width="300" height="600">
-
-**TELA TESTE LOGIN**
-
-<img src="/screen/tela-teste-login.jpg" width="300" height="600">
 
 ## Geração de APK e AAB
 * **APK:** Link para APK
