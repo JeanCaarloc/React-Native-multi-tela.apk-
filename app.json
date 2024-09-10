@@ -2,6 +2,7 @@
   "expo": {
     "name": "multi-tela",
     "slug": "multi-tela",
+    "scheme": "loja-virtual",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,10 +19,23 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.jeancaarloc.multitela"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "3e137d2a-9e1a-4639-9684-13e821e7fcb8"
+      }
     }
   }
 }
